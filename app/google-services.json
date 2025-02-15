@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "211328010009",
+    "firebase_url": "https://fkrbkr-2c094-default-rtdb.firebaseio.com",
+    "project_id": "fkrbkr-2c094",
+    "storage_bucket": "fkrbkr-2c094.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:211328010009:android:fabc8e2733b3273949e788",
+        "android_client_info": {
+          "package_name": "com.example.classescreator"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAvzKo8h68LZSl2_jG35HnIoAKE5YPClEw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
